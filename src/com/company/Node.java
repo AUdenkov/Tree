@@ -11,6 +11,10 @@ public class Node {
         this.object = object;
     }
 
+    public Node() {
+
+    }
+
     public int getKey() {
         return key;
     }
